@@ -1,3 +1,5 @@
+## Purpose of a server
+
 **_What is a server?_**
 
 
